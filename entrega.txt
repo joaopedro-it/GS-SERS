@@ -1,12 +1,9 @@
 GLOBAL SOLUTION - ENTREGA
 
 Integrantes:
-- Nome completo do integrante 1
-- Nome completo do integrante 2
-- Nome completo do integrante 3
-
-Link do GitHub:
-Cole aqui o link do repositório
+- João Pedro - RM: 569725
+- Rafael Côrtes Lins - RM: 570588
+- Cauã Paes Vivaldo - RM: 569906
 
 Link do vídeo no YouTube:
 Cole aqui o link do vídeo não listado
