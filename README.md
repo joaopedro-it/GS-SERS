@@ -1,22 +1,7 @@
-# Global Solution - Central de Monitoramento Espacial
+# Global Solution - Soluções em Energias Renováveis e Sustentáveis.
 
-## Tema
+## Tema - Central de Monitoramento Espacial 
 
-Soluções em Energias Renováveis e Sustentáveis.
-
-## Objetivo
-
-Este projeto simula uma central de monitoramento de uma missão espacial experimental.
-
-O sistema analisa dados simulados da missão, como:
-
-- Temperatura
-- Energia
-- Comunicação
-- Painel solar
-- Status dos módulos
-
-Com base nesses dados, o programa gera alertas e toma decisões automáticas simples.
 
 ## Como o projeto funciona
 
@@ -40,7 +25,6 @@ Em seguida, o programa toma decisões automáticas, como:
 ## Relação com sustentabilidade
 
 O projeto considera o uso de energia solar como fonte renovável da missão.
-
 Além disso, quando a energia fica baixa, o sistema economiza recursos desligando módulos secundários.
 
 ## Tecnologias utilizadas
@@ -48,42 +32,13 @@ Além disso, quando a energia fica baixa, o sistema economiza recursos desligand
 - Python
 - Terminal
 
-## Conteúdos usados
-
-Este projeto usa conteúdos básicos de programação:
-
-- Variáveis
-- `print`
-- `if`
-- `else`
-- Comparações
-- Strings
-- Números
-
-O código não usa `elif` e não usa bibliotecas externas.
-
-## Como executar
-
-Abra o terminal na pasta do projeto e digite:
-
-```bash
-python main.py
-```
-
 ## Integrantes
 
-Coloque aqui os nomes dos integrantes do grupo.
-
-Exemplo:
-
-- Nome 1
-- Nome 2
-- Nome 3
+- João Pedro Soler Antonio RM: 569725
+- Rafael Côrtes Lins RM: 570588
+- Cauã Paes Vivaldo RM: 569906
 
 ## Link do vídeo
 
-Coloque aqui o link do vídeo não listado no YouTube.
+https://youtu.be/PfAl7ejbGOI
 
-## Link do repositório
-
-Coloque aqui o link do repositório público no GitHub.
